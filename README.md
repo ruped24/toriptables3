@@ -55,3 +55,5 @@ toriptables2.py -r
 ### [Troubleshooting and FAQ](https://github.com/ruped24/toriptables2/wiki/Troubleshooting)
 
 ---
+
+Please don't hesistate to report any bug issues.
