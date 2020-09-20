@@ -14,7 +14,7 @@ apt install tor
 
 #### Usage:
 ```python
-python3 toriptables3.py -l
+toriptables3.py -l
 ```
 ---
 
