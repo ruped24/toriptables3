@@ -14,7 +14,7 @@ apt install tor
 
 #### [Usage](https://drive.google.com/open?id=0B79r4wTVj-CZVy10Ujg5Vjl5WFk):
 ```python
-sudo python3 toriptables3.py -l
+python3 toriptables3.py -l
 ```
 ---
 
