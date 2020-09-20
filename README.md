@@ -12,7 +12,7 @@ apt install tor
 ```
 ---
 
-#### Usage:
+#### [Usage](https://drive.google.com/file/d/1pYBizuYq6OpWbLqZqgll9PJwJu7MMhhT/view?usp=sharing):
 ```python
 toriptables3.py -l
 ```
@@ -43,5 +43,6 @@ toriptables3.py -r
 ### [Troubleshooting and FAQ](https://github.com/ruped24/toriptables2/wiki/Troubleshooting)
 
 ---
+**toriptables3** the successor to the **[toriptables2](https://github.com/ruped24/toriptables2#toriptables2)**.
 
 Please don't hesistate to report any bug issues.
