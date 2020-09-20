@@ -43,6 +43,6 @@ toriptables3.py -r
 ### [Troubleshooting and FAQ](https://github.com/ruped24/toriptables2/wiki/Troubleshooting)
 
 ---
-**toriptables3** the successor to the **[toriptables2](https://github.com/ruped24/toriptables2#toriptables2)**.
+**toriptables3** the successor to **[toriptables2](https://github.com/ruped24/toriptables2#toriptables2)**.
 
 Please don't hesistate to report any bug issues.
