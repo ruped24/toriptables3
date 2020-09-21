@@ -18,6 +18,16 @@ toriptables3.py -l
 ```
 ---
 
+#### Screenshot:
+<details><summary>Expand for screenshot</summary>
+<br>
+ 
+ [► Screenshot](https://drive.google.com/file/d/1uhBPftxaqbW2W6IC3CzpT1mqDQ8KQDCE/view?usp=sharing)
+ 
+ </details>
+
+---
+
 #### To test your anonymity:
 <details><summary>Expand for anonymity test</summary>
 <br>
