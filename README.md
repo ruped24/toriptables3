@@ -35,7 +35,7 @@ toriptables3.py -l
 ---
 
 #### To change Tor IP address:
-<details><summary>Expand for change Tor IP</summary>
+<details><summary>Expand for change Tor IP address</summary>
 <br>
 
 ```bash
