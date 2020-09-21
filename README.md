@@ -45,7 +45,7 @@ toriptables3.py -r
 
 ---
 
-#### Troubleshooting and FAQ
+#### Troubleshooting and FAQ:
 <details><summary>Expand for Troubleshooting and FAQ</summary>
  <br>
  
