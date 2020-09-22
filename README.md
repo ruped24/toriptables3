@@ -56,7 +56,7 @@ toriptables3.py -r
 ---
 
 ## [toriptables3g w/ GUI notification](https://bitbucket.org/ruped24/toriptables3g/src)
-<details><summary>Expand for toriptables3g usage</summary>
+<details><summary>Expand for toriptables3g installation usage</summary>
 
 #### Dependencies:
 
