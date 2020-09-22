@@ -159,5 +159,5 @@ if __name__ == '__main__':
       load_tables.get_ip()
     else:
       parser.print_help()
-  except Exception as err:
-    print("[!] Run as super user: %s" % err[1])
+   except:
+     print("[!] Run as super user!")
