@@ -86,7 +86,7 @@ apt install tor
 <details><summary>Exapand for notification demo</summary>
  <br>
  
- [► Kali Linux, Rolling Edition Demo](https://drive.google.com/file/d/1kWdp8ciWTX5onuinR-3DjYKgcTFh9QJM/view?usp=sharing)
+* [Kali Linux, Rolling Edition Demo](https://drive.google.com/file/d/1kWdp8ciWTX5onuinR-3DjYKgcTFh9QJM/view?usp=sharing)
 
 </details>
 
