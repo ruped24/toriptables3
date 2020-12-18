@@ -12,6 +12,12 @@ apt install tor
 ```
 ---
 
+#### Installation:
+```bash
+sudo mv toriptables3.py /usr/local/bin
+```
+---
+
 #### [Usage](https://drive.google.com/file/d/1pYBizuYq6OpWbLqZqgll9PJwJu7MMhhT/view?usp=sharing):
 ```python
 toriptables3.py -l
