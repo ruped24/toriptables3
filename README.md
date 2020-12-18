@@ -12,12 +12,6 @@ apt install tor
 ```
 ---
 
-#### Installation:
-```bash
-sudo mv toriptables3.py /usr/local/bin
-```
----
-
 #### [Usage](https://drive.google.com/file/d/1pYBizuYq6OpWbLqZqgll9PJwJu7MMhhT/view?usp=sharing):
 ```python
 toriptables3.py -l
@@ -33,6 +27,18 @@ toriptables3.py -l
  [▹ Screenshot Linux Mint](https://drive.google.com/file/d/1xqvqIQe_jfi-PqfVCn8Fq9yZ7MAUqns-/view?usp=sharing)
  
  </details>
+
+---
+
+#### Installation:
+<details><summary>Expand for installation</summary>
+<br>
+ 
+```bash
+sudo mv toriptables3.py /usr/local/bin
+```
+
+</details>
 
 ---
 
