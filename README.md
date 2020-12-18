@@ -70,7 +70,7 @@ toriptables3.py -r
 ---
 
 ## [toriptables3g w/ GUI notification](https://bitbucket.org/ruped24/toriptables3g/src)
-<details><summary>Expand for toriptables3g installation usage</summary>
+<details><summary>Expand for toriptables3g installation and usage</summary>
 
 #### Dependencies:
 
@@ -81,6 +81,14 @@ apt install tor
 #### Screenshots:
 * [Kali Linux, Rolling Edition [ON]](https://drive.google.com/file/d/136xanPctr35oHxshW5abVGyFg0cslzV4/view?usp=sharing)
 * [Kali Linux, Rolling Edition [OFF]](https://drive.google.com/file/d/1lDKIrx4XQpObjHUJ2t9ESa93z9XD4Shd/view?usp=sharing)
+
+#### Usage Demo:
+<details><summary>Exapand for notification demo</summary>
+ <br>
+ 
+ [► Kali Linux, Rolling Edition Demo](https://drive.google.com/file/d/1kWdp8ciWTX5onuinR-3DjYKgcTFh9QJM/view?usp=sharing)
+
+</details>
 
 </details>
 
