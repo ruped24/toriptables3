@@ -18,8 +18,8 @@ toriptables3.py -l
 ```
 ---
 
-#### Screenshot:
-<details><summary>Expand for screenshot</summary>
+#### Screenshots:
+<details><summary>Expand for screenshots</summary>
 <br>
  
  [▹ Screenshot Kali Linux ](https://drive.google.com/file/d/1uhBPftxaqbW2W6IC3CzpT1mqDQ8KQDCE/view?usp=sharing)
