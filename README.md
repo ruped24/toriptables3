@@ -20,11 +20,10 @@ toriptables3.py -l
 
 #### Screenshots:
 <details><summary>Expand for screenshots</summary>
-<br>
  
- [▹ Screenshot Kali Linux ](https://drive.google.com/file/d/1uhBPftxaqbW2W6IC3CzpT1mqDQ8KQDCE/view?usp=sharing)
+* [Screenshot Kali Linux ](https://drive.google.com/file/d/1uhBPftxaqbW2W6IC3CzpT1mqDQ8KQDCE/view?usp=sharing)
  
- [▹ Screenshot Linux Mint](https://drive.google.com/file/d/1xqvqIQe_jfi-PqfVCn8Fq9yZ7MAUqns-/view?usp=sharing)
+* [Screenshot Linux Mint](https://drive.google.com/file/d/1xqvqIQe_jfi-PqfVCn8Fq9yZ7MAUqns-/view?usp=sharing)
  
  </details>
 
