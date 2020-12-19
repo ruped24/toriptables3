@@ -39,6 +39,7 @@ sudo mv toriptables3.py /usr/local/bin
 
 ***
 
+#### Installation Methods:
 <details><summary>Expand for installation Methods</summary>
 <br>
 
