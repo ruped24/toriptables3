@@ -37,7 +37,18 @@ toriptables3.py -l
 sudo mv toriptables3.py /usr/local/bin
 ```
 
+***
+
+<details><summary>Expand for installation Methods</summary>
+<br>
+
+```diff
+- Replace toriptables2 with toriptables3.
+```
+
 [► Installation Methods](https://github.com/ruped24/toriptables2/wiki/Optional-Installation-methods-for-toriptables2.py)
+
+</details>
 
 </details>
 
