@@ -127,6 +127,6 @@ apt install tor
 
 ---
 
-**toriptables3** is the successor to **[toriptables2](https://github.com/ruped24/toriptables2#toriptables2)**.
+**[toriptables3](https://github.com/ruped24/toriptables3/issues/1)** is the successor to **[toriptables2](https://github.com/ruped24/toriptables2#toriptables2)**.
 
 Please don't hesistate to report any bug issues.
