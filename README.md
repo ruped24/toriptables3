@@ -129,4 +129,6 @@ apt install tor
 
 **[toriptables3](https://github.com/ruped24/toriptables3/issues/1)** is the successor to **[toriptables2](https://github.com/ruped24/toriptables2#toriptables2)**.
 
+**[toriptables3 ELF 64-bit one-file executable](https://github.com/ruped24/toriptables3/releases/tag/v3.0)**.
+
 Please don't hesistate to report any bug issues.
