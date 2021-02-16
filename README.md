@@ -48,7 +48,7 @@ sudo mv toriptables3.py /usr/local/bin
 [► Python3 Installation Methods](https://github.com/ruped24/toriptables2/wiki/Optional-Installation-methods-for-toriptables2.py)
 
 
-[► AppImage Installation Methods](https://github.com/ruped24/toriptables3/releases/tag/v3.0)
+[► AppImage Installation Method](https://github.com/ruped24/toriptables3/releases/tag/v3.0)
 
 </details>
 
