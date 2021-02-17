@@ -62,8 +62,8 @@ sudo mv toriptables3.py /usr/local/bin
  
 * [Check My IPx](https://ipx.ac/)
 * [Check Tor Project](https://check.torproject.org)
-* [Do I leak](http://www.doileak.com/)
-* [DNS leak test](https://www.doileak.com/classic.html)
+* [Do I leak](https://www.doileak.com/classic.html)
+* [DNS leak test](https://dnsleaktest.com/)
 * [Test IPv6](http://ipv6-test.com/)
 * [What is my proxy](http://whatismyproxy.com)
 * [What every Browser knows about you](http://webkay.robinlinus.com/)
