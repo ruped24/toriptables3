@@ -88,7 +88,7 @@ toriptables3.py -r
 <details><summary>Expand for tor ip switcher</summary>
 <br>
 
-[► **Screenshot**](https://drive.google.com/open?id=0B79r4wTVj-CZOGJadlBtWWxPWFk)
+[► **Screenshot**](https://drive.google.com/file/d/1PI-Hh-7n_NYNF11bqOVA46fLDDRpaJy9/view)
 
 [► **Tor IP Switcher**](https://github.com/ruped24/tor_ip_switcher/releases/tag/v2.7)
 
