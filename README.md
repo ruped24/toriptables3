@@ -81,6 +81,19 @@ toriptables3.py -r
 ```
 </details>
 
+
+---
+
+#### To automate changing Tor IP:
+<details><summary>Expand for tor ip switcher</summary>
+<br>
+
+[► **Screenshot**](https://drive.google.com/open?id=0B79r4wTVj-CZOGJadlBtWWxPWFk)
+
+[► **Tor IP Switcher**](https://github.com/ruped24/tor_ip_switcher/releases/tag/v2.7)
+
+</details>
+
 ---
 
 ## [toriptables3g w/ GUI notification](https://bitbucket.org/ruped24/toriptables3g/src)
@@ -130,4 +143,5 @@ apt install tor
 
 **[toriptables3 ELF 64-bit one file executable](https://github.com/ruped24/toriptables3/releases/tag/v3.0)**.
 
-Please don't hesistate to report any bug issues.
+**[tor_ip_switcher ELF 64-bit one file executable](https://github.com/ruped24/tor_ip_switcher/releases/tag/v2.7)**.
+
