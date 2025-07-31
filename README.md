@@ -129,7 +129,7 @@ apt install tor
 
 ---
 
-#### Troubleshooting and FAQ:
+#### Troubleshooting and FAQ.:
 <details><summary>Expand for Troubleshooting and FAQ</summary>
  <br>
  
